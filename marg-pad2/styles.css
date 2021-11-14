@@ -1,0 +1,49 @@
+html {
+    background-color: rgb(196, 189, 189);
+}
+
+body{
+    margin-top: 20px;
+    background-color: white;
+    margin-left: 12cm;
+    margin-right: 12cm;
+    padding: 3px;
+}
+
+
+.box {
+    margin: 5px;
+    border: 1px solid lightblue;
+    background-color: rgb(212, 228, 233);
+    padding: 5px;
+}
+
+.line1 {   
+    margin-bottom: 0cm;
+}
+
+.line2 {
+    margin-top: 0px ;
+}
+
+.button {
+    text-align: center;
+}
+
+.button p{
+    margin-bottom: -11px;
+    margin-top: 8px;
+
+}
+
+button {
+    text-align: center;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 2px solid rgb(196, 189, 189);
+    margin: 8px;
+
+
+
+}
